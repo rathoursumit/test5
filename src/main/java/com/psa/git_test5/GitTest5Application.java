@@ -8,6 +8,8 @@ public class GitTest5Application {
          int y=300;
         int x=200;
 	int s=382;
+	int z=900;
+
 	public static void main(String[] args) {
 		SpringApplication.run(GitTest5Application.class, args);
 	}
